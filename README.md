@@ -12,21 +12,14 @@
                                   / /   | |_   `-.______ /  
                                   \ \._,\ '/            `   
                                    `--'  `"                 
-
   caio · 42 Luxembourg
 ```
-
 Software engineering student writing C until it stops segfaulting.
 Make travel videos when I need to look at something that isn't a terminal.
-
 `PT native` · `EN/FR C1` · `ES B2` · `LB A2 (allegedly)`
-
-[ [YouTube](https://youtube.com/@ooiac.o) ] · [ LinkedIn ]
-
+[ [YouTube](https://youtube.com/@ooiac.o) ] · [ [LinkedIn](https://www.linkedin.com/in/caio-eduardo-bb9630405/) ]
 ---
-
 ### whoami
-
 ```
 $ whoami
 caio
@@ -36,16 +29,12 @@ $ cat motivation.txt
 cat: motivation.txt: No such file or directory
 $ ./keep_going
 ```
-
 - Doing the 42 Common Core in Belval. It's fine. Everything's fine. (:
 - Most of my code lives near the metal: memory, processes, sockets, parsers.
 - I also edit POV travel vlogs in Premiere, because variety.
 - valgrind and I have an honest relationship. It tells me what I broke.
-
 ---
-
 ### 42 milestones
-
 | repo | contents | status |
 |------|----------|--------|
 | [`42_milestone_0`](https://github.com/ooiac/42_milestone_0) | Libft, the C basics | complete |
@@ -53,33 +42,25 @@ $ ./keep_going
 | [`42_milestone_2`](https://github.com/ooiac/42_milestone_2) | push_swap, minitalk | complete |
 | [`42_milestone_3`](https://github.com/ooiac/42_milestone_3) | Philosophers, minishell, CPP | complete |
 | [`42_milestone_4`](https://github.com/ooiac/42_milestone_4) | NetPractice, cub3D | complete |
-
 ---
-
 ### stack
-
 ```
 languages   C  ·  C++  ·  Bash
 tools       Linux  ·  Git  ·  Vim  ·  Node.js
 elsewhere   Premiere Pro  ·  After Effects
 ```
-
 ---
-
 ### stats
-
 <div align="center">
 
-![ooiac's stats](https://github-readme-stats.vercel.app/api?username=ooiac&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![ooiac's profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ooiac&theme=github_dark)
 
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ooiac&layout=compact&theme=dark&hide_border=true)
+![most used languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ooiac&theme=github_dark)
+![most committed language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ooiac&theme=github_dark)
 
 </div>
-
 It's mostly C. The chart isn't lying. I wish it were. :/
-
 ---
-
 ```
 // TODO: write something profound here
 // TODO: later

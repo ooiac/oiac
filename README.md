@@ -16,7 +16,8 @@
 ```
 Software engineering student writing C until it stops segfaulting.
 Make travel videos when I need to look at something that isn't a terminal.
-`PT native` · `EN/FR C1` · `ES B2` · `LB A2 (allegedly)`
+
+`PT native` · `EN/FR C1` · `ES B2` · `LB A2`
 [ [YouTube](https://youtube.com/@ooiac.o) ] · [ [LinkedIn](https://www.linkedin.com/in/caio-eduardo-bb9630405/) ]
 ---
 ### whoami
